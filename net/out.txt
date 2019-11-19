@@ -1,0 +1,164 @@
+1 produced! It's source ID :41
+Time: 0min Use: 0
+2 produced! It's source ID :80
+3 produced! It's source ID :10
+4 produced! It's source ID :2
+5 produced! It's source ID :58
+6 produced! It's source ID :8
+7 produced! It's source ID :29
+8 produced! It's source ID :48
+9 produced! It's source ID :36
+10 produced! It's source ID :82
+11 produced! It's source ID :7
+12 produced! It's source ID :34
+Time: 0.5min Use: 121.341
+13 produced! It's source ID :44
+14 produced! It's source ID :47
+15 produced! It's source ID :90
+16 produced! It's source ID :68
+Time: 1min Use: 295.959
+Time: 1.5min Use: 2860.87
+Time: 2min Use: 2860.87
+17 produced! It's source ID :23
+Time: 0min Use: 2860.87
+18 produced! It's source ID :75
+19 produced! It's source ID :21
+20 produced! It's source ID :12
+21 produced! It's source ID :78
+22 produced! It's source ID :63
+Time: 0.5min Use: 2906.58
+23 produced! It's source ID :81
+24 produced! It's source ID :12
+25 produced! It's source ID :53
+26 produced! It's source ID :51
+27 produced! It's source ID :4
+Time: 1min Use: 4282.67
+Time: 1.5min Use: 5100.72
+Time: 2min Use: 5100.72
+28 produced! It's source ID :54
+Time: 0min Use: 5100.72
+29 produced! It's source ID :36
+30 produced! It's source ID :28
+31 produced! It's source ID :15
+32 produced! It's source ID :28
+33 produced! It's source ID :47
+Time: 0.5min Use: 5887.36
+34 produced! It's source ID :86
+35 produced! It's source ID :96
+36 produced! It's source ID :54
+37 produced! It's source ID :5
+38 produced! It's source ID :70
+39 produced! It's source ID :34
+40 produced! It's source ID :63
+41 produced! It's source ID :55
+Time: 1min Use: 7032.11
+Time: 1.5min Use: 7505.75
+Time: 2min Use: 7505.75
+42 produced! It's source ID :14
+Time: 0min Use: 7505.75
+43 produced! It's source ID :22
+44 produced! It's source ID :85
+45 produced! It's source ID :45
+46 produced! It's source ID :52
+Time: 0.5min Use: 8904.73
+47 produced! It's source ID :66
+48 produced! It's source ID :73
+49 produced! It's source ID :79
+Time: 1min Use: 9820.62
+Time: 1.5min Use: 9970.49
+Time: 2min Use: 9970.49
+50 produced! It's source ID :19
+Time: 0min Use: 9970.49
+51 produced! It's source ID :33
+52 produced! It's source ID :62
+53 produced! It's source ID :77
+54 produced! It's source ID :62
+55 produced! It's source ID :1
+56 produced! It's source ID :35
+Time: 0.5min Use: 12799.3
+57 produced! It's source ID :40
+58 produced! It's source ID :7
+59 produced! It's source ID :26
+Time: 1min Use: 13299.3
+Time: 1.5min Use: 13426.7
+Time: 2min Use: 13426.7
+60 produced! It's source ID :12
+Time: 0min Use: 13426.7
+61 produced! It's source ID :48
+62 produced! It's source ID :32
+63 produced! It's source ID :66
+64 produced! It's source ID :66
+65 produced! It's source ID :39
+66 produced! It's source ID :43
+Time: 0.5min Use: 17419.6
+67 produced! It's source ID :83
+68 produced! It's source ID :34
+69 produced! It's source ID :45
+70 produced! It's source ID :93
+71 produced! It's source ID :25
+72 produced! It's source ID :89
+Time: 1min Use: 19778.9
+Time: 1.5min Use: 19821.4
+Time: 2min Use: 19821.4
+73 produced! It's source ID :16
+Time: 0min Use: 19821.4
+74 produced! It's source ID :21
+75 produced! It's source ID :65
+76 produced! It's source ID :72
+77 produced! It's source ID :30
+Time: 0.5min Use: 22225.8
+78 produced! It's source ID :63
+79 produced! It's source ID :29
+80 produced! It's source ID :88
+81 produced! It's source ID :29
+82 produced! It's source ID :45
+Time: 1min Use: 22435
+Time: 1.5min Use: 22477.4
+Time: 2min Use: 22477.4
+83 produced! It's source ID :26
+Time: 0min Use: 22477.4
+84 produced! It's source ID :68
+85 produced! It's source ID :69
+86 produced! It's source ID :69
+87 produced! It's source ID :26
+Time: 0.5min Use: 24750.2
+88 produced! It's source ID :46
+89 produced! It's source ID :38
+90 produced! It's source ID :90
+91 produced! It's source ID :29
+92 produced! It's source ID :45
+93 produced! It's source ID :32
+94 produced! It's source ID :4
+95 produced! It's source ID :73
+96 produced! It's source ID :97
+Time: 1min Use: 26711.7
+Time: 1.5min Use: 26770.2
+Time: 2min Use: 26770.2
+97 produced! It's source ID :17
+Time: 0min Use: 26770.2
+98 produced! It's source ID :5
+99 produced! It's source ID :54
+100 produced! It's source ID :36
+Time: 0.5min Use: 27345.2
+101 produced! It's source ID :49
+102 produced! It's source ID :9
+103 produced! It's source ID :67
+104 produced! It's source ID :66
+Time: 1min Use: 28630.3
+Time: 1.5min Use: 28688.8
+Time: 2min Use: 28688.8
+105 produced! It's source ID :6
+Time: 0min Use: 28688.8
+106 produced! It's source ID :63
+107 produced! It's source ID :91
+ Lifespan: 1108 Seconds 
+Time: 0.5min Use: 30225.6
+108 produced! It's source ID :2
+109 produced! It's source ID :21
+110 produced! It's source ID :84
+111 produced! It's source ID :19
+112 produced! It's source ID :77
+113 produced! It's source ID :42
+Time: 1min Use: 31144.5
+Time: 1.5min Use: 31154.1
+Time: 2min Use: 31154.1
